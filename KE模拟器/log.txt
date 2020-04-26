@@ -1,0 +1,53 @@
+KEmulator Lite v0.9.8 Running...
+Get classes from C:\Users\2244352200\Desktop\KE模拟器\口袋精灵客户端.jar
+Get class O0O00O
+Get class OO
+Get class OOOO00
+Get class O0O000
+Get class O0
+Get class O0OO00O
+Get class O0OO0
+Get class Heart
+Get class O000OO0
+Get class OO00O00
+Get class OO00OO
+Get class OO00O0
+Get class O0000
+Get class O0O0O00
+Get class O0O0OO
+Get class OOOOO0
+Get class O0O0O0
+Get class O0OO0OO
+Get class O0OO0O0
+Get class OOO00O
+Get class O00OOO
+Get class O00OO0
+Get class O00OO
+Get class O00O0
+Get class OOOO
+Get class O0000O0
+Get class O00OOOO
+Get class O00OOO0
+Get class O0000O
+Get class O00O
+Get class O0OO0O
+Get class O000
+Get class OOO0O0
+Get class OO000
+Get class O0OOO00
+Get class OO000OO
+Get class O0O
+Get class Heart2
+Get class O000OO
+Get class OO0OO0
+Get class O0O00
+Get class O0OOOO
+Get class O0O0
+Get class O0OOO0
+Get class O0OOOOO
+Get class OO0000
+Custom.jar.getResourceStream: /icon/icon.png (1506)
+Launch MIDlet class: Heart
+Custom.jar.getResourceStream: csys/first.dat (3599)
+Notify Destroyed
+Exiting Emulator

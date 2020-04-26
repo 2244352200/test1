@@ -1,0 +1,51 @@
+newproxy:<newproxy>#1_s221.181.70.17:5926|h221.181.70.111:5919
+photo:http://218.206.84.154:80/Photo/receiver
+borough:<menu(g:a)(b)(sr:1111111181111151111110)(line:444444,444444,444444,333333,333333,333333,333333,444444,444444,333333,333333,333333,333333,333333,333333,333333,333333,333333,444444,333333,444444,0)>选择服务器|[1tkm0#1]企鹅村( 3新开0 )|[1tkl0#1]静逸林|[1tkj0#1]童心意|[1tki0#1]雨梦林|[1tkh0#1]寒冰镇|[1tkg0#1]妙树源|[1tkf0#1]梦奇缘|[1tke0#1]七星岩|[1tk80#1]爱琴海|[1tk90#1]花语梦|[1tkc0#1]冰灵泉|[1tkd0#1]紫雾林|[1tkb0#1]奇遇镇|[1tka0#1]彩虹翼|[1tk70#1]风雪谷|[1tk60#1]红枫林|[1tk50#1]回音泉|[1tk40#1]光霞滩|[1tk30#1]流星崖|[1tk20#1]世界树|[1tk10#1]魔法屋|[1tk0f#1]最新列表
+1:<menu(t:c)(g:a)(tou:5)(r:3)(l:r)(u)>1-常用功能|[12]{x7} 物品行囊 {x7}|[11]{x9} 个人状态 {x9}|[pet]{sg} 宠物指令 {sg}|[~1 4]{dd} 队伍指令 {dd}|[16]{x3} 神秘商店 {x3}|[~reach_sqq_npc]{dt3} 超q精灵 {dt3}|[vassal]{sg} 佣兵指令 {sg}|[pet_soul]{x11}宠物之魂{x11}|[dragon_soul]{dt7} 龙魂系统{dt7}|[rg_pvp]{dt7} 全服竞技场{dt7}|[rg_pve]{dt7} 仙气修炼{dt7}
+9:<menu(t:c)(g:a)(tou:5)(r:0)(l:7)(u)>9-任务系统|[~9 1]{x20} 查看任务 {x20}|[~9 2 mps]{x10} 区域地图 {x10}|[~9 3 mps]{x10} 世界地图 {x10}|[mrhd]{x19} 3每日活动a {x19}|[kdgl]{bk} 5口袋攻略a {bk}
+3:<menu(t:c)(g:a)(tou:5)(r:7)(l:1)(u)>3-辅助功能|[~easyshop]{box} 3快速购物a {box}|[~pdg 0]{x17} 生产装备 {x17}|[~ksbx]{boh} 3快速补血a {boh}|[~cj]{x5} 查看成就 {x5}|[gj]{dt5} 5原地挂机a {dt5}|[shjn]{y21} 生活技能 {y21}|[pet_soul draw]{gt} 3灵魂粉末a {gt}
+7:<menu(t:c)(g:a)(tou:5)(r:9)(l:3)(u)>7-聊天功能|[71]{x6} 同屏聊天 {x6}|[f1]{x27} 本服广播 {x27}|[l1]{x27} 3本线广播a {x27}|[762]{x6} 队伍聊天 {x6}|[7 3]{x6} 发悄悄话 {x6}|[kdhy]{f} 口袋好友 {f}|[fmcmd]{dt1} 家族指令 {dt1}
+0:<menu(t:c)(g:a)(tou:5)(r:r)(l:9)(u)>0-系统功能|[~lltz]{dd}3 流量设置 a{dd}|[0h]{dd} 游戏帮助 {dd}|[0st]{dd} 细节设置 {dd}|[~quit]{dd} 退出游戏 {dd}|[~cdfree_award]{dd} 5免费领取 a{dd}
+traffic:<menu>流量统计|[traffic 1]查看流量|[traffic 2]清空计数
+pilotMenu:<menu(s)(nonum)(map )>|[move] 移动 |[long] 查看 
+0hs:<pmg(g:y)>2,4,6,8键控制方向5键查看周围人物1键打开个人菜单0键打开系统菜单3键打开好友列表7键打开聊天指令9键非战斗时查看当前任务9键在战斗中开启自动战斗*键开关人名显示#键开关聊天记录
+servertype:gongwang
+105:socket://192.168.10.29:5926
+uaurl:http://listqq.92le.com/listkdqq/idxkd.jsp
+ua_finish:yes
+uaver:CECFD0D1D2D3D4D5CFD7D8D9DADBD8DDDEDFE0E1E2E4
+line:1
+server:妙树源
+cityID:tkg1#1
+uptraffic:788
+downtraffic:23319
+lastID:null
+usr:3f9d4655f8e24efc93b43e6e24e01523
+pwd:224982AE5F497EE3
+setStarKey:3
+relogin:<pmg(c:[<login>tk31#1|tk81_0000697967-2]{ok}确定|[<quitgame]{del}取消)(_)>由于网络等原因与服务器失去连接。按确定重新登录游戏，按取消退出程序。
+kdhy:<menu(tou:5)(g:a)(ra:r)>目前有 344a 个好友，当前页 31a / 39a|[3n zjlx]{x6} 最近联系人|[3n refresh]3{dt3} 刷新状态a|[3n 嘟嘟小弟]{f} 嘟嘟小弟  ( 1100a 级) : 3红色丘陵a;[1]{x6}发悄悄话;[2]{x26}查看细节;[5]{[Y]}动他一下;[4]{del}删除好友;[6]{x18}飞到身边|[3n 爱ni菁]{f} 爱ni菁  ( 1100a 级) : 3宝库入口a;[1]{x6}发悄悄话;[2]{x26}查看细节;[5]{[Y]}动他一下;[4]{del}删除好友;[6]{x18}飞到身边|[3n 慕容公爵]{f} 慕容公爵  ( 178a 级) : 3罗克萨斯家a;[1]{x6}发悄悄话;[2]{x26}查看细节;[5]{[Y]}动他一下;[4]{del}删除好友;[6]{x18}飞到身边|[3n 痛楚铭记]{f} 痛楚铭记  ( 139a 级) : 3{s2}烈焰之界（噩梦）-副本a 战斗中a;[1]{x6}发悄悄话;[2]{x26}查看细节;[5]{[Y]}动他一下;[4]{del}删除好友;[6]{x18}飞到身边|[3n 飞舞落雪]{f} 飞舞落雪  ( 179a 级) : 3寂寥之地a;[1]{x6}发悄悄话;[2]{x26}查看细节;[5]{[Y]}动他一下;[4]{del}删除好友;[6]{x18}飞到身边|[3n a]3{x26} 寻找新朋友a|[3n r]3下一页a
+16:<menu(t:l)(g:a)(tou:5)>常用功能 - 神秘商店|[18]{x3} 3游戏充值a {x3}|[yb]{x3} 元宝道具 {x3}|[qyb]{x3} 超级QQ特权元宝道具 {x3}|[~1 17]{x2} 金币道具 {x2}|[~1 18]{x2} 当前等级特惠商品 {x2}|[~1 team_buy]{dd} 5团宝a {dd}
+r:<menu(t:c)(g:a)(tou:5)(r:1)(l:0)(u)>常用功能 - 神秘商店|[18]{x3} 3游戏充值a {x3}|[yb]{x3} 元宝道具 {x3}|[qyb]{x3} 超级QQ特权元宝道具 {x3}|[~1 17]{x2} 金币道具 {x2}|[~1 18]{x2} 当前等级特惠商品 {x2}|[~1 team_buy]{dd} 5团宝a {dd}
+f3:<input(@)(x:~7 18)>所有本线的玩家都能听见，你想说什么?
+f0:<cnt>
+pet:<menu(t:l)(g:b)(tou:5)>常用功能 - 宠物指令|[~petcmd 7]{sg} 查看宠物 {sg}|[~petcmd 3]{gt} 使用道具 {gt}|[~petcmd 8]{lg} 叫出宠物 {lg}|[~petcmd x]{:`(} 宠物放生 {:`(}|[~petcmd p]{sg} 宠物护卫 {sg}|[~m5 pet_equip]{sg} 宠物装备 {sg} |[~pet_trans $m]{sg} 宠物转生 {sg}
+scan:<menu(tou:5)(g:a)>|[~1 12]人物状态|[~1 11]人物装备
+ff:0
+761:<input(@)(x:~7 61)>家族频道：你想说什么?
+13:0
+fmcmd:<menu(g:a)(tou:5)(t:c)>{dt1}家族指令{dt1}|[ftk]{x6} 家族聊天|[fmcmds mem]{[Y]} 成员管理|[fmcmds new]{x18} 招募新人|[fmcmds mgm]{dt2} 家族内政
+12:<menu(t:l)(g:b)(tou:5)>常用功能 - 物品行囊|[~m5 1]{s3} 武器防具 {s3}|[~m5 2]{gt} 辅助物品 {gt}|[~m5 5]{x11} 3装备强化a {x11}|[~m5 3]{crd} 任务物品 {crd}|[~m5 c]{x17} 材料物品 {x17}|[~m5 s]{box} 摆摊出售 {box}|[~m5 lock]{box} 加锁设置 {box}|[~m5 wqfw]{box} 武器符文 {box}|[~m5 all]{x7} 全部物品 {x7}
+11:<menu(t:l)(g:b)(tou:5)>常用功能 - 个人状态|[~1 11]{a1} 当前装备 {a1}|[~1 12]{x9} 人物属性 {x9}|[titles]{x4} 称号荣誉 {x4}|[~selspl]{m1} 查看技能 {m1}|[~inhesion]{x4} 人物天赋 {x4}|[~zhuanzhi]{x4} 人物转职 {x4}|[~rwfabao]{x16} 人物法宝 {x16}|[~zhuansheng]{x4} 人物转生 {x4}|[~tctf_cmd]{x5} 天赐天罚 {x5}
+0h:<menu(t:l)(g:b)(tou:5)>系统功能 - 游戏帮助|[~gate]{dd} 卡死修复 {dd}|[~sinfo]{dd} 服务器信息 {dd}|[~re_cache]{dd} 刷新菜单 {dd}
+0f:0
+0r:<menu(t:l)(g:b)(tou:5)>系统功能 - 注册账号|[~regist]{dd} 注册账号 {dd}|[~0 a5]{dd} 修改密码 {dd}|[~pwdpro b]{dd} 密码保护 {dd}
+0s:0
+ver:45
+l1:<input(@)(x:~7 18)>所有本线的玩家都能听见，你想说什么?
+vassal:<menu(t:l)(g:b)(tou:5)>常用功能 - 佣兵指令|[~vs_cmd vs_view]{sg} 查看佣兵 {sg}|[~vs_cmd vs_call]{lg} 叫出佣兵 {lg}|[~vs_cmd vs_fire]{:`(} 解雇佣兵 {:`(}|[~vs_cmd vs_skill]{sg} 佣兵技能 {sg}|[~vs_cmd vs_equip]{sg} 佣兵装备 {sg}|[~vs_cmd vs_sum]{sg} 佣兵招募 {sg}|[~vs_cmd vs_task]{sg} 佣兵日常 {sg}|[~vs_cmd vs_mend]{sg} 佣兵修炼 {sg}|[~vs_cmd vs_pearl]{sg} 佣兵宝珠 {sg}
+#maps:60
+f1:<input(@)(x:~7 14)>所有本服务器的玩家都能听见，你想说什么?
+71:<input(@)(x:~7 11)>【同屏聊天】所有本地图的玩家都能听见，你想说什么?
+fanwg:<input(num)(x:~fwg)>请正确输入图片上的 4 位数字
+yb:<menu(x:~1 6kind)(g:b)(tou:5)>元宝道具|[37]{dd} 特惠道具 {dd}|[5]{dd} 推荐物品 {dd}|[6]{dd} 人物装备 {dd}|[7]{dd} 宠物强化 {dd}|[8]{dd} 奇珍异宝 {dd}|[30]{dd} 佣兵商店 {dd}
